@@ -1,0 +1,9 @@
+C:\Users\DavidPC\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe.config
+C:\Users\DavidPC\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe
+C:\Users\DavidPC\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.pdb
+C:\Users\DavidPC\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\HtmlAgilityPack.dll
+C:\Users\DavidPC\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\DavidPC\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\HtmlAgilityPack.xml
+C:\Users\DavidPC\Documents\Visual Studio 2015\Projects\Weather\Weather\obj\Debug\Weather.exe
+C:\Users\DavidPC\Documents\Visual Studio 2015\Projects\Weather\Weather\obj\Debug\Weather.pdb
+C:\Users\DavidPC\Documents\Visual Studio 2015\Projects\Weather\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
